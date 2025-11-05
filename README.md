@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlreTJrdTQ5dXl5ZTd3NzhsM2l4YXM3ZHR6N2VmNmFnNXFwZmE4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t80ptUKojTg99qFo6r/giphy.gif" alt="Control and instrumentation workflow" width="600"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Working automation systems" width="600"/>
 </div>
 
 # Hi there 👋 I’m **Badre**  
@@ -42,9 +42,7 @@
 ---
 
 ### 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‑YOURUSERNAME-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Badre)  
-[![Portfolio](https://img.shields.io/badge/Portfolio‑LIVE‑green?logo=website&logoColor=white)] 
-[![Email](https://img.shields.io/badge/Email‑youremail@example.com-red?logo=gmail&logoColor=white)](mailto:john.B@gmail.com)
+[![Email](https://img.shields.io/badge/Email‑john.B@gmail.com-red?logo=gmail&logoColor=white)](mailto:john.B@gmail.com)
 
 ---
 
